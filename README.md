@@ -3,9 +3,13 @@
 This project tackles a real-world challenge: forecasting crime rates in Chicago. Using 12 years of crime data (2006–2017) and the powerful Facebook Prophet library, we analyzed trends, identified seasonal patterns, and forecasted future crime rates.
 
 🎯 Key Highlights
+
 📊 6 Million Rows: Processed data from the Chicago Police Department with over 6M entries.
+
 📅 17 Years of Crime Data: Spanning 2001 to 2017, with a forecast horizon beyond 2018.
+
 🔮 Powered by Prophet: Leveraged Facebook Prophet for time series forecasting with trends and seasonality.
+
 🌟 Clean Data, Clean Results: Preprocessed, cleaned, and visualized massive datasets for actionable insights.
 
 🚀 Features
