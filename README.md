@@ -30,7 +30,7 @@ Your laptop can survive 6M rows of data… just barely. 😅
 🔮 Facebook Prophet
 💻 Google Colab
 
-# 1. Project Overview:
+### 1. Project Overview:
 The project focuses on forecasting crime rates in Chicago using time series analysis and Facebook Prophet.
 The dataset is sourced from the Chicago Police Department's Citizen Law Enforcement Analysis and Reporting System (CLEAR), spanning 2001–2017, with the project using data from 2005–2017.
 
