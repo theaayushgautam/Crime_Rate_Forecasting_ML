@@ -1,4 +1,7 @@
 # Crime Rate Forecasting with Facebook Prophet 🔎
+Was not able to upload CSV files as they exceed 25mb (github uload limit) so providing the link below to download dataset(Zip)
+https://www.kaggle.com/datasets/currie32/crimes-in-chicago
+
 📝 Project Overview
 This project tackles a real-world challenge: forecasting crime rates in Chicago. Using 12 years of crime data (2006–2017) and the powerful Facebook Prophet library, we analyzed trends, identified seasonal patterns, and forecasted future crime rates.
 
